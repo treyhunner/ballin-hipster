@@ -14,6 +14,11 @@ Things that will be noted for each feature:
 - First Django version it works in (if known)
 - Most recent Django version it works in (if known)
 
+Similar projects that could be merged or referenced:
+
+- `django model meta reference`_
+
 The `features`_ file lists some features that should be added to this guide.
 
 .. _features: features.rst
+.. _django model meta reference: https://github.com/unbracketed/django_model_meta_reference
